@@ -3,5 +3,3 @@ second commit
 fifth commit
 ten
 aa seven
-
->>>>>>> 2ae980c3afa0697f18af10f04ef32c2a5e1f68d1
